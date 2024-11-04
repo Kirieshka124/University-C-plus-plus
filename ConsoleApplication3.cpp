@@ -8,7 +8,7 @@ int main() {
 	std::cout << R << std::endl;
 	std::cout << S << std::endl;
 	float C = std::max(S, R);
-	std::cout << S << std::endl;
+	std::cout << C << std::endl;
 	return 0;
 }
 /*
